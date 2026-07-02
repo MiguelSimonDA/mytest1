@@ -2,6 +2,6 @@
 
 List:
 - Bread
-- Milk
+- chocolate Milk
 - Apples
 - Eggs
