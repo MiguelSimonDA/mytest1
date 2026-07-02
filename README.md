@@ -3,5 +3,5 @@
 List:
 - Bread
 - oat Milk
-- Apples
+- Green Apples
 - Eggs
